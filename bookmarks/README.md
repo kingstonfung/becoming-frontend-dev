@@ -124,6 +124,8 @@ I will most likely separate these bookmarks into more folders.
 
 
 ### Books, Professional Development, Self & Tech Improvements
+- https://www.oreilly.com/library/view/clean-code-a/9780136083238/
+  - https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf
 - https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People
 - https://www.triballeadership.net/
 - https://www.goodreads.com/book/show/16144853-leaders-eat-last
